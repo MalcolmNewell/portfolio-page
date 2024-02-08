@@ -11,7 +11,7 @@ I am also a TA for Principles of Microeconomics.
 
 ## **Projects**
 1. B10_football_data
-This project was done in Tableau. It looks at B10 football data, evaluating performances across the teams in the conference and what statistics are important for winning. We divided it into special teams, defense, and offense then offered different ways for users to explore the data/change inputs themselves at the end.
+This project was done in Tableau. It looks at B10 football data, evaluating performances across the teams in the conference and what statistics are important for winning. We divided it into special teams, defense, and offense then offered different ways for users to explore the data/change inputs themselves at the end. The sizing did not transfer the best to PDF, but I can promise it looks better in Tableau!
 
 3. NCAA_March_Madness
 This project was done in Python. It looks at statistics from college basketball's March Madness games. This also explored statistics that could lead to winning, predicting cinderella teams/upsets, and building models to predict how far teams will go in the tournament
